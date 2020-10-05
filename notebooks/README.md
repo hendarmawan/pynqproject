@@ -1,0 +1,1 @@
+Copy the [notebook](./matmult.ipynb) to the Jupyter notebooks area in the PYNQ-Z1 device.
